@@ -1,0 +1,11 @@
+/*html body article p {
+    color: #ff0000;
+  }*/
+
+
+/*html body article#contents h4 a::after, html body article#contents ul li a::after {
+  color: #2196f3;
+  content: target-counter(attr(href), page);
+  content: 'rintintin';
+  float: right;
+} */
